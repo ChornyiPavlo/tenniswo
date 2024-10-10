@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://pinapaz.tenniswo.com/sitemap.xml
+Host: pinapaz.tenniswo.com
